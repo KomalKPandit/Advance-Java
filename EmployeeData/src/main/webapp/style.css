@@ -1,4 +1,4 @@
-/* Reset */
+
 * {
   margin: 0;
   padding: 0;
@@ -6,7 +6,7 @@
   font-family: Arial, sans-serif;
 }
 
-/* Body Styling */
+
 body {
   background: linear-gradient(135deg, #6a11cb, #2575fc);
   display: flex;
@@ -16,7 +16,7 @@ body {
   padding: 20px;
 }
 
-/* Form Container */
+
 form {
   background: #fff;
   padding: 30px 40px;
@@ -31,7 +31,7 @@ h1 {
   color: #333;
 }
 
-/* Labels */
+
 label {
   display: block;
   margin-bottom: 5px;
@@ -39,7 +39,7 @@ label {
   color: #444;
 }
 
-/* Inputs */
+
 input[type="text"],
 input[type="number"],
 input[type="email"],
@@ -53,14 +53,14 @@ input[type="date"] {
   transition: 0.3s;
 }
 
-/* Input focus effect */
+
 input:focus {
   border-color: #2575fc;
   outline: none;
   box-shadow: 0 0 5px rgba(37, 117, 252, 0.5);
 }
 
-/* Radio buttons */
+
 input[type="radio"] {
   margin-right: 5px;
 }
@@ -75,7 +75,7 @@ input[type="radio"] {
   color: #555;
 }
 
-/* Button */
+
 button {
   width: 100%;
   padding: 12px;
